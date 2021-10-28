@@ -38,7 +38,7 @@ Frykt ikke! Man kan melde på lag *opp til* 3 personer.
 
 
 ### Jeg kan ikke risikere å gå glipp av dette! Hvor melder jeg meg på!?
-[Her](https://docs.google.com/forms/d/e/1FAIpQLSduoVWdStY-yQOR5I2kqKIQLBjVs5oYP_hspDp2sYGQd2_hHg/viewform)! \
+[Her](https://docs.google.com/forms/d/e/1FAIpQLSduoVWdStY-yQOR5I2kqKIQLBjVs5oYP_hspDp2sYGQd2_hHg/viewform)!
 
 Fristen for å registrere seg er onsdag 3. november 23:59.
 
