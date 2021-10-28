@@ -1,6 +1,6 @@
 # Bergen Open 2021
 
-Etter fjorårets hiatus arrangeres nok en gang Bergen Open, og vi i MAPS har gleden av å invitere til UiO-huben! Konkurransen vil følge samme format som *[NCPC](https://github.com/MAPSuio/NCPC-21)* og *[Prog & påfyll](https://www.facebook.com/events/404177087717380)*. Det er også mulig å gjennomføre heldigitalt, men vi ønsker å gi dere en sjanse til å ha det hyggelig sammen før, underveis og etter konkurransen :)
+Etter fjorårets hiatus arrangeres nok en gang Bergen Open, og vi i MAPS har gleden av å invitere til UiO-huben! Konkurransen vil følge samme format som *[NCPC](https://github.com/MAPSuio/NCPC-21)* og *[Prog & påfyll](https://www.facebook.com/events/404177087717380)*. Det er også mulig å gjennomføre heldigitalt, men vi ønsker å gi dere en sjanse til å ha det hyggelig sammen før, underveis og etter konkurransen :smile:
 
 
 ## Når?
@@ -42,7 +42,7 @@ Frykt ikke! Man kan melde på lag *opp til* 3 personer.
 
 
 ## Og ellers?
-Hvis det skulle være noe, er det bare å kontakte Sergey (sergeyj@uio.no) eller Sarek (sarekhs@uio.no) :)
+Hvis det skulle være noe, er det bare å kontakte Sergey (sergeyj@uio.no) eller Sarek (sarekhs@uio.no) :smile:
 - [Generell informasjon](http://contest.ii.uib.no/bgopen/2021/)
 - [Bilder fra BO18 i Bergen](http://contest.ii.uib.no/bgopen/2018/pics/)
 
