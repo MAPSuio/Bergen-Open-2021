@@ -1,6 +1,6 @@
 # Bergen Open 2021
 
-Etter fjorårets hiatus arrangeres nok en gang Bergen Open, og vi i MAPS har gleden av å invitere til til UiO-huben! Konkurransen vil følge samme format som *[NCPC](https://github.com/MAPSuio/NCPC-21)* og *[Prog & påfyll](https://www.facebook.com/events/404177087717380)*. Det er også mulig å gjennomføre heldigitalt, men vi ønsker å gi dere en sjanse til å ha det hyggelig sammen før, underveis og etter konkurransen :)
+Etter fjorårets hiatus arrangeres nok en gang Bergen Open, og vi i MAPS har gleden av å invitere til UiO-huben! Konkurransen vil følge samme format som *[NCPC](https://github.com/MAPSuio/NCPC-21)* og *[Prog & påfyll](https://www.facebook.com/events/404177087717380)*. Det er også mulig å gjennomføre heldigitalt, men vi ønsker å gi dere en sjanse til å ha det hyggelig sammen før, underveis og etter konkurransen :)
 
 
 ## Når?
@@ -13,7 +13,7 @@ Selve konkurransen varer fra 11:00 til 16:00, men vi er tilstede fra ca. 10:00 o
 
 
 ## Hva skjer denne gangen?
-UiB arrangerer en programmeringskonkurranse, og har invitert noen flere universiteter i Norge til å delta, deriblant oss. Denne konkurransen er ment å være tilgjengelig for nybegynnere, men bør også gi de mer ergarne noe å bryne seg på. Altså spiller det ingen rolle om du nettopp har startet på Design eller runder av mastergraden i Robotikk, så lenge du synes programmering er gøy!
+UiB arrangerer en programmeringskonkurranse, og har invitert noen flere av landers universiteter til å delta, deriblant oss. Denne konkurransen er ment å være tilgjengelig for nybegynnere, men bør også gi de mer ergarne noe å bryne seg på. Altså spiller det ingen rolle om du nettopp har startet på Design eller runder av mastergraden i Robotikk, så lenge du synes programmering er gøy!
 
 Konkurransen vil også bruke systemet til [Kattis](https://open.kattis.com/), så vi anbefaler å bli litt kjent med formatet før man møter opp.
 
