@@ -31,7 +31,7 @@ class Kattis {
         int s = 0;
         
         for (int i = 0; i < n; i++) { // Gjør noe med de neste n tallene
-            s += nextInt();
+            s += sc.nextInt();
         }
         
         System.out.println(s);
