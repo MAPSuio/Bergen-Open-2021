@@ -1,6 +1,6 @@
 # Bergen Open 2021
 
-Etter fjorårets hiatus arrangeres nok en gang Bergen Open, og vi i MAPS har gleden av å invitere til UiO-huben! Konkurransen vil følge samme format som *[NCPC](https://github.com/MAPSuio/NCPC-21)* og *[Prog & påfyll](https://www.facebook.com/events/404177087717380)*. Det er også mulig å gjennomføre heldigitalt, men vi ønsker å gi dere en sjanse til å ha det hyggelig sammen før, underveis og etter konkurransen :smile:
+Etter fjorårets hiatus arrangeres nok en gang Bergen Open, og vi i MAPS har gleden av å invitere til UiO-huben! Konkurransen vil følge samme format som *[NCPC](https://github.com/MAPSuio/NCPC-21)* og *[Prog & påfyll](https://www.facebook.com/events/404177087717380)*. Det er også mulig å gjennomføre heldigitalt, men vi ønsker å gi dere en anledning til å ha det hyggelig sammen før, underveis og etter konkurransen :smile:
 
 
 ## Når?
@@ -38,7 +38,8 @@ Frykt ikke! Man kan melde på lag *opp til* 3 personer.
 
 
 ### Jeg kan ikke risikere å gå glipp av dette! Hvor melder jeg meg på!?
-[Her](https://docs.google.com/forms/d/e/1FAIpQLSduoVWdStY-yQOR5I2kqKIQLBjVs5oYP_hspDp2sYGQd2_hHg/viewform)! Fristen for å registrere seg er onsdag 3. november 23:59.
+[Her](https://docs.google.com/forms/d/e/1FAIpQLSduoVWdStY-yQOR5I2kqKIQLBjVs5oYP_hspDp2sYGQd2_hHg/viewform)! \
+Fristen for å registrere seg er onsdag 3. november 23:59.
 
 
 ## Og ellers?
@@ -46,4 +47,5 @@ Hvis det skulle være noe, er det bare å kontakte Sergey (sergeyj@uio.no) eller
 - [Generell informasjon](http://contest.ii.uib.no/bgopen/2021/)
 - [Bilder fra BO18 i Bergen](http://contest.ii.uib.no/bgopen/2018/pics/)
 
-Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. Vi har laget noen kodeskall for å gjøre det lettere å komme i gang :) Se for eksempel [her](/Kodeskall/kattis.py) for et kodeskall for Python.
+Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. \
+Vi har laget noen kodeskall for å gjøre det lettere å komme i gang :) Se for eksempel [her](/Kodeskall/kattis.py) for et kodeskall for Python.
