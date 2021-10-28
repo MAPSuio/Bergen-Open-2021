@@ -26,3 +26,26 @@ fn main() {
         let b = nums[1];
     }
 }
+
+// Her er et annet eksempel på en måte å gjøre det. Denne er for en oppgave med
+// `t` linjer med 4 tall på hver linje.
+/*
+fn main() {
+    let stdin = io::stdin();
+    let mut s = String::new();
+    stdin.read_line(&mut s).expect(":(");
+    let mut parts = s.split_whitespace().map(|s| s.parse::<i32>());
+    let t = parts.next().unwrap().unwrap();
+    for _ in 0..t {
+        let mut s = String::new();
+        stdin.read_line(&mut s).expect(":(");
+        let mut parts = s.split_whitespace().map(|s| s.parse::<i32>());
+        let first = parts.next().unwrap().unwrap();
+        let second = parts.next().unwrap().unwrap();
+        let third = parts.next().unwrap().unwrap();
+        let fourth = parts.next().unwrap().unwrap();
+        let res = someFunction(first, second, third, fourth);
+        println!("{}", coins);
+    }
+}
+*/
