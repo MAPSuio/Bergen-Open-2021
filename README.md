@@ -18,12 +18,12 @@ Universitetet i Bergen arrangerer en programmeringskonkurranse, og har invitert 
 Konkurransen vil bruke det automatiske dommersystemet [Kattis](https://open.kattis.com/), så vi anbefaler å bli litt kjent med formatet før man møter opp.
 
 ### Kan jeg delta hvis jeg går ...
-Design: Ja \
-Digøk: Ja \
-Prosa: Ja \
-Robotikk: Ja \
-Språk: Ja \
-Noe helt annet: Ja
+Design: **Ja** \
+Digøk: **Ja** \
+Prosa: **Ja** \
+Robotikk: **Ja** \
+Språk: **Ja** \
+Noe helt annet: **Ja**
 
 ### Hva slags opplegg er det snakk om?
 Vi åpner dørene rundt 10, og spanderer "uendelig" med kaffe og te, kjeks, chips, snacks og brus. Rundt 13:30 vil det også bli servert pizza! Dessuten opprettholdes tradisjonen med heliumballonger: Hvert lag får en ballong for hver oppgave de klarer å løse.
