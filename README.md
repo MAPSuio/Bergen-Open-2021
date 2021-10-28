@@ -17,14 +17,6 @@ Universitetet i Bergen arrangerer en programmeringskonkurranse, og har invitert 
 
 Konkurransen vil bruke det automatiske dommersystemet [Kattis](https://open.kattis.com/), så vi anbefaler å bli litt kjent med formatet før man møter opp.
 
-### Kan jeg delta hvis jeg går ...
-Design: **Ja** \
-Digøk: **Ja** \
-Prosa: **Ja** \
-Robotikk: **Ja** \
-Språk: **Ja** \
-Noe helt annet: **Ja**
-
 ### Kan jeg delta selv om jeg går `linje`?
 Jaa! Det har ikke noe å si hvilken linje du går eller hvor mye erfaring du har. Konkurransen er nemlig tiltenkt alle målgrupper!
 
