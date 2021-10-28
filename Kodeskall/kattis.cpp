@@ -21,12 +21,10 @@ Output:
 using namespace std;
 
 int main() {
-  int sum = 0;
-  int n;
+  int sum = 0, n, tmp;
   cin >> n; // Det første tallet, som markerer hvor mange tall som følger
   
   for (int i = 0; i < n; i++) { // Gjør noe med de neste n tallene
-    int tmp;
     cin >> tmp;
     sum += tmp;
   }
