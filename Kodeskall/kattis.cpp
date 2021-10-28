@@ -1,15 +1,37 @@
-// Vi ønsker å lese noe input, anvende det på en algoritme, og produsere noe output.
+/*
+Vi ønsker å lese noe input, anvende det på en algoritme, og produsere noe output.
+Man kan lese inn med standard cin >>, og skrive med standard cout <<
 
-// Her kan man enkelt lese inn ved å bruke cin >>
-// For output skal man ikke returne noe. Vi ønsker bare å printe, vanlig cout <<
+Under følger et eksempel på en løsning til følgende problem:
+"Gi meg summen av n heltall"
 
-// Her følger et kodeskall du kan bruke:
+Input:
+5
+60
+34
+2
+13
+20
+
+Output:
+134
+*/
+
 
 #include <iostream>
 using namespace std;
 
 int main() {
-  // Lykke til!
+  int sum = 0;
+  int n;
+  cin >> n; // Det første tallet, som markerer hvor mange tall som følger
   
-   return 0;
+  for (int i = 0; i < n; i++) { // Gjør noe med de neste n tallene
+    int tmp;
+    cin >> tmp;
+    sum += tmp;
+  }
+  
+  cout << sum;
+  return 0;
 }
