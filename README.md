@@ -27,8 +27,10 @@ Vi åpner dørene rundt 10, og spanderer "uendelig" med kaffe og te, kjeks, chip
 I tillegg blir det av erfaring veldig hyggelig, og kanskje møter du noen du ikke kjente fra før :)
 
 
-### Du har oppmerksomheten min... Men hva er da motivasjonen til å gjøre det bra?
-På NCPC ble vinnerne kronet nordiske mestere i programmering. Det er muligens en eller annen tittel å bære her og, men vi blir ikke helt mette på det, så vi har bestemt oss for å premiere våre kjære "utøvere"! Når konkurransen er over, vil det bli delt ut premie til første, andre og tredje plass, samt en lucky loser som klarer `n` oppgaver.
+### Blir det premier?
+Jaa! Når konkurransen er over, vil det bli delt ut premie til første, andre og tredje plass, samt en lucky loser som klarer minst `3` oppgaver.
+
+I tillegg er jo det å gjøre det bedre enn Bergen en premie i seg selv :grin:
 
 
 ### Interessant! Hadde jeg bare kunnet ta med noen av vennene mine...
