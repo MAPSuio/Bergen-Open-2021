@@ -34,7 +34,7 @@ I tillegg er jo det å gjøre det bedre enn Bergen en premie i seg selv :grin:
 
 
 ### Interessant! Hadde jeg bare kunnet ta med noen av vennene mine...
-Frykt ikke! Dere kan melde på lag *opp til* 3 personer.
+Frykt ikke! Man kan melde på lag *opp til* 3 personer.
 
 
 ### Jeg kan ikke risikere å gå glipp av dette! Hvor melder jeg meg på!?
@@ -46,4 +46,4 @@ Hvis det skulle være noe, er det bare å kontakte Sergey (sergeyj@uio.no) eller
 - [Generell informasjon](http://contest.ii.uib.no/bgopen/2021/)
 - [Bilder fra BO18 i Bergen](http://contest.ii.uib.no/bgopen/2018/pics/)
 
-Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. Derfor har vi laget noen kodeskall som dere kan bruke, både underveis og til å øve dere i forkant :)
+Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. Vi har laget noen kodeskall for å gjøre det lettere å komme i gang :) Se for eksempel [her](/Kodeskall/kattis.py) for et kodeskall for Python.
