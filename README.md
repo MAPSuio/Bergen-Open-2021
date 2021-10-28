@@ -38,7 +38,7 @@ Frykt ikke! Man kan melde på lag *opp til* 3 personer.
 
 
 ### Jeg kan ikke risikere å gå glipp av dette! Hvor melder jeg meg på!?
-[Her](https://docs.google.com/forms/d/e/1FAIpQLSduoVWdStY-yQOR5I2kqKIQLBjVs5oYP_hspDp2sYGQd2_hHg/viewform)!\
+[Her](https://docs.google.com/forms/d/e/1FAIpQLSduoVWdStY-yQOR5I2kqKIQLBjVs5oYP_hspDp2sYGQd2_hHg/viewform)! \
 
 Fristen for å registrere seg er onsdag 3. november 23:59.
 
@@ -49,5 +49,5 @@ Hvis det skulle være noe, er det bare å kontakte Sergey (sergeyj@uio.no) eller
 - [Bilder fra BO18 i Bergen](http://contest.ii.uib.no/bgopen/2018/pics/)
 
 Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. \
-For å gjøre det enklere å komme i gang, har vi laget kodeskall for noen av språkene *vi* har løst Kattis-oppgaver i 😄
+For å gjøre det enklere å komme i gang, har vi laget kodeskall for noen av språkene *vi* har løst Kattis-oppgaver i 😄 \
 Se for eksempel dem for [Python](/Kodeskall/kattis.py) og [Java](/Kodeskall/kattis.java).
