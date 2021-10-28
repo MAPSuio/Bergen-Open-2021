@@ -40,3 +40,5 @@ Frykt ikke! Dere kan melde på lag *opp til* 3 personer.
 Hvis det skulle være noe, er det bare å kontakte meg (sergeyj@uio.no) eller Sarek (sarekhs@uio.no) :)
 - [Generell informasjon](http://contest.ii.uib.no/bgopen/2021/)
 - [Bilder fra BO18 i Bergen](http://contest.ii.uib.no/bgopen/2018/pics/)
+
+Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. Derfor har vi laget noen kodeskall som dere kan bruke, både underveis og til å øve dere i forkant :)
