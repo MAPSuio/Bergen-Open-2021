@@ -17,7 +17,6 @@ Output:
 134
 */
 
-
 #include <iostream>
 using namespace std;
 
