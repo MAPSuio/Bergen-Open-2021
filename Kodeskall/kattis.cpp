@@ -21,14 +21,14 @@ Output:
 using namespace std;
 
 int main() {
-  int sum = 0, n, tmp;
-  cin >> n; // Det første tallet, som markerer hvor mange tall som følger
+    int sum = 0, n, tmp;
+    cin >> n; // Det første tallet, som markerer hvor mange tall som følger
   
-  for (int i = 0; i < n; i++) { // Gjør noe med de neste n tallene
-    cin >> tmp;
-    sum += tmp;
-  }
+    for (int i = 0; i < n; i++) { // Gjør noe med de neste n tallene
+      cin >> tmp;
+      sum += tmp;
+    }
   
-  cout << sum;
-  return 0;
+    cout << sum;
+    return 0;
 }
