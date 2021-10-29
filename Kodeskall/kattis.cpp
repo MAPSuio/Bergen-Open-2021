@@ -25,8 +25,8 @@ int main() {
     cin >> n; // Det første tallet, som markerer hvor mange tall som følger
   
     for (int i = 0; i < n; i++) { // Gjør noe med de neste n tallene
-      cin >> tmp;
-      sum += tmp;
+        cin >> tmp;
+        sum += tmp;
     }
   
     cout << sum;
