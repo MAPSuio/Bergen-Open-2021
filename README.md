@@ -17,7 +17,7 @@ Universitetet i Bergen arrangerer en programmeringskonkurranse, og har invitert 
 Konkurransen vil bruke det automatiske dommersystemet [Kattis](https://open.kattis.com/), så vi anbefaler å bli litt kjent med formatet før man møter opp.
 
 
-### Kan jeg delta selv om jeg går `x.` året på `linje`?
+### Kan jeg delta selv om jeg går `n.` året på `linje`?
 Jaa! Det har ikke noe å si hvilken linje du går eller hvor mye erfaring du har. Konkurransen er nemlig tiltenkt alle målgrupper!
 
 
@@ -48,6 +48,4 @@ Hvis det skulle være noe, er det bare å kontakte Sergey (sergeyj@uio.no) eller
 - [Generell informasjon](http://contest.ii.uib.no/bgopen/2021/)
 - [Bilder fra BO18 i Bergen](http://contest.ii.uib.no/bgopen/2018/pics/)
 
-Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. \
-For å gjøre det enklere å komme i gang, har vi laget kodeskall for noen av språkene *vi* har løst Kattis-oppgaver i 😄 \
-Se for eksempel den for [Python](/Kodeskall/kattis.py) eller den for [Java](/Kodeskall/kattis.java).
+Oppgavene skal i teorien kunne løses i alle språkene Kattis tilbyr, men de kan *definitivt* løses i Java, Python og C++. For å gjøre det enklere å komme i gang, har vi laget kodeskall for noen av språkene *vi* har løst Kattis-oppgaver i 😄 Se for eksempel dem for [Python](/Kodeskall/kattis.py) eller den for [Java](/Kodeskall/kattis.java).
